@@ -1,0 +1,53 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on arathi nair</title>
+        <link>arti97.github.io/posts/</link>
+        <description>Recent content in Posts on arathi nair</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sat, 15 Aug 2020 22:42:44 +0530</lastBuildDate>
+        <atom:link href="arti97.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>deer in the headlights</title>
+            <link>arti97.github.io/posts/problem-solving-approach/</link>
+            <pubDate>Sat, 15 Aug 2020 22:42:44 +0530</pubDate>
+            
+            <guid>arti97.github.io/posts/problem-solving-approach/</guid>
+            <description>My sister joins college this year, with absolutely no development experience. And as she starts working on small projects, in technologies she&amp;rsquo;s never used before, there are times I see her being blocked by a seemingly impenetrable coding problem.
+And more often than not, &amp;lsquo;how to proceed from here&amp;rsquo; is often rendered as a huge question mark across her face.
+All.software.has.defects.
+Given enough time, anything that can go wrong, will go wrong.</description>
+            <content type="html"><![CDATA[<p>My sister joins college this year, with absolutely no development experience. And as she starts working on small projects, in technologies she&rsquo;s never used before, there are times I see her being blocked by a seemingly impenetrable coding problem.<br>
+And more often than not, &lsquo;how to proceed from here&rsquo; is often rendered as a huge question mark across her face.</p>
+<p><em>All.software.has.defects.</em><br>
+Given enough time, anything that <em>can</em> go wrong, <em>will</em> go wrong. Even devs 10 years into the industry write broken code and get stuck.<br>
+What does help, however, is the approach one takes to figure out strategies around unraveling the problem at hand.</p>
+<p>Keeping that in mind, here are some pragmatic set of recommendations, and I&rsquo;m putting it out here for the greater good:</p>
+<h3 id="explain-it-to-me-like-im-five">explain it to me like I&rsquo;m five</h3>
+<p>Instead of burying your head in a monitor, articulate the problem. Simple, layman stuff. Or doodle diagrams. Whatever floats your boat man! But the point being, <em><strong>understand</strong></em> the blocker well enough that you&rsquo;d be able to see the bigger picture involved.</p>
+<h3 id="zoom-out">zoom out</h3>
+<p>So now that we&rsquo;ve established looking at the bigger picture is important, just staring at and re-running your code won&rsquo;t help. First ensure you&rsquo;ve debugged your own code thoroughly - handle and log any errors thrown by your module before they propagate.<br>
+And then, <em><strong>examine the surrounding code</strong></em>. You&rsquo;re using a library? Dive into it&rsquo;s code - you might learn something that&rsquo;ll help you understand the problem!</p>
+<h3 id="have-you-tried-googling-it">have you tried googling it?</h3>
+<p>Ah yes, our favourite quote.<br>
+Do. Your. Research.<br>
+Google it. Read the documentation! Look up related discussions on community threads!</p>
+<h3 id="divide-and-conquer">divide and conquer</h3>
+<p>You wanna dive into 297x836 you&rsquo;re gonna cry. Go for 2x2=4 instead. Try to solve a scaled down version of the problem.<br>
+Defensive design&rsquo;s main mantra is <em><strong>prevent the problem at the source</strong></em>.<br>
+But how do you find out the source?<br>
+Break your code into smaller chunks. Discard unused code. Comment out sections of the program and leave only the parts that are failing. Split and refactor into smaller methods and classes to test in isolation.<br>
+Solving simpler, unit problems helps in ruling out interactions between features and zeroing down on the root cause.</p>
+<h3 id="one-at-a-time-please">one at a time please</h3>
+<p>If you change ten things together and re-execute the program to get a successful run, you won&rsquo;t know what fixed the problem.<br>
+Change one thing at a time. Doesn&rsquo;t work? Remove it. You don&rsquo;t want dead code lying around.<br>
+Same with data. Edit only one attribute or value at a time rather than an entire record together.</p>
+<h2 id="summary">summary</h2>
+<p>That&rsquo;s all folks! Um, happy problem solving to you?</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

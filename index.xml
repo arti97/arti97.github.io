@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arathi nair</title>
+    <link>arti97.github.io/</link>
+    <description>Recent content on arathi nair</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 15 Aug 2020 22:42:44 +0530</lastBuildDate>
+    
+	<atom:link href="arti97.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>deer in the headlights</title>
+      <link>arti97.github.io/posts/problem-solving-approach/</link>
+      <pubDate>Sat, 15 Aug 2020 22:42:44 +0530</pubDate>
+      
+      <guid>arti97.github.io/posts/problem-solving-approach/</guid>
+      <description>My sister joins college this year, with absolutely no development experience. And as she starts working on small projects, in technologies she&amp;rsquo;s never used before, there are times I see her being blocked by a seemingly impenetrable coding problem.
+And more often than not, &amp;lsquo;how to proceed from here&amp;rsquo; is often rendered as a huge question mark across her face.
+All.software.has.defects.
+Given enough time, anything that can go wrong, will go wrong.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>arti97.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>arti97.github.io/about/</guid>
+      <description>Hi, I&amp;rsquo;m Arathi!
+I like building stuff - and I’m lucky that I get to do it as my job. I currently work as a fullstack developer at Goldman Sachs helping in compliant reporting using (mostly) Java and React. Over the course of my 2 year professional stint, I&amp;rsquo;ve developed an interest in distributed systems - their workings, reliability, scalability - after all, it is the peripherals that matter.
+Apart from this, I enjoy swimming, reading, trekking, marathons and sudoku.</description>
+    </item>
+    
+  </channel>
+</rss>
